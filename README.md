@@ -19,6 +19,7 @@ Once these filters were in place, a count of employees by their job title could 
 
 ### Employees Eligible for Mentoring Program
 A list of eligible mentors was also generated from the analysis (mentorship_eligibility.csv). It will be a useful tool in connecting with potential mentors, and could be expanded upon by further subdividing the results.
+
 <img width="492" alt="Mentorship_eligibility_csv_capture" src="https://user-images.githubusercontent.com/104801614/177415796-ad3fb56e-56a0-4dd6-a9b6-c3d5d099d6c0.png">
 
 ## Summary
